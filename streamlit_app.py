@@ -14,4 +14,4 @@ st.header('🍌🥭 Build Your Own Fruit Smoothie 🥝🍇')
 import pandas as pd
 
 fruit_listed = pd.read_csv("https://uni-lab-files.s3.us-west-2.amazonaws.com/dabw/fruit_macros.txt")
-streamlit.dataframe(fruit_listed)
+st.dataframe(fruit_listed)
