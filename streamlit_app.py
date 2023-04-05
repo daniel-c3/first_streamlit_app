@@ -65,7 +65,7 @@ streamlit.error()
 # import snowflake.connector
 
 # dont run anything past here while we troubleshoot
-streamlit.stop()
+# streamlit.stop()
 
 
 
