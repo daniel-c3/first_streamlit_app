@@ -59,14 +59,10 @@ try:
     streamlit.dataframe(back_from_function)
   
   
-  
-  
-
-
 # import snowflake.connector
 
 # dont run anything past here while we troubleshoot
-streamlit.stop()
+# streamlit.stop()
 
 
 
